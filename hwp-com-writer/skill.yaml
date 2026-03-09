@@ -1,0 +1,29 @@
+name: hwp-com-writer
+version: 1.0.0
+description: "한컴 COM API + HWPX XML 후처리 하이브리드 방식으로 행정문서를 정밀 자동 생성하는 스킬"
+
+triggers:
+  - "/hwp-com"
+  - "COM 방식으로 한글 문서"
+  - "한글 서식 재현"
+  - "행정문서 자동 생성"
+  - "HWPX 서식 분석"
+  - "레퍼런스 서식 복사"
+  - "한글 자동화"
+
+instructions: |
+  이 스킬은 한컴 COM API(win32com)로 한글 문서를 생성하고,
+  HWPX XML 후처리로 COM의 한계를 보완하는 하이브리드 방식입니다.
+
+  필수 환경: Windows + 한글(HWP) 설치 + pywin32
+
+  핵심 스크립트:
+  - scripts/com_core.py: COM 초기화, 서식, 텍스트, 표 함수
+  - scripts/xml_postprocess.py: XML 후처리 (배경색, indent, 표, 자간)
+  - scripts/template_filler.py: HWPX 템플릿 빈칸 채우기
+
+  상세 지침은 SKILL.md를 참조하세요.
+
+
+# 2026-03 update: XML->COM escalation guidance
+# Use COM for fixed cover boxes, table/text-box content, and visual-fidelity-critical reference copying.

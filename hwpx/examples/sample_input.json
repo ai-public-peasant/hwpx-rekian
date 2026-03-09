@@ -1,0 +1,27 @@
+{
+  "content": [
+    {"type": "heading", "level": 1, "text": "업무 협조 요청서"},
+    {"type": "paragraph", "text": ""},
+    {"type": "paragraph", "text": "수신: 경영지원팀"},
+    {"type": "paragraph", "text": "발신: 개발팀"},
+    {"type": "paragraph", "text": "제목: 개발 장비 구매 요청"},
+    {"type": "paragraph", "text": ""},
+    {"type": "paragraph", "text": "아래와 같이 개발 장비 구매를 요청합니다."},
+    {"type": "paragraph", "text": ""},
+    {
+      "type": "table",
+      "rows": [
+        ["품목", "수량", "단가", "합계"],
+        ["MacBook Pro 16\"", "3", "4,500,000원", "13,500,000원"],
+        ["모니터 32\" 4K", "3", "800,000원", "2,400,000원"],
+        ["키보드/마우스 세트", "3", "200,000원", "600,000원"],
+        ["합계", "", "", "16,500,000원"]
+      ]
+    },
+    {"type": "paragraph", "text": ""},
+    {"type": "paragraph", "text": "구매 사유: 신규 입사자 3명의 개발 환경 구축"},
+    {"type": "paragraph", "text": "희망 납품일: 2024년 4월 1일"},
+    {"type": "paragraph", "text": ""},
+    {"type": "paragraph", "text": "검토 후 승인 부탁드립니다."}
+  ]
+}
