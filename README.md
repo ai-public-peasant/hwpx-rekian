@@ -9,6 +9,16 @@ https://www.hancom.com/support/downloadCenter/download 에서 다운로드하세
 
 ---
 
+## 크레딧
+
+| 기여자 | 역할 |
+|--------|------|
+| [Canine89 / 박현규](https://github.com/Canine89/hwpxskill) (`@limedaddy_8924`) | hwpx 스킬 원작자 |
+| 이경수 / 공무원코딩 ([유튜브](https://www.youtube.com/@publicCoding) · 온나라 커뮤니티 범정부오피스) | 행정문서 자동화(범피스) 개발자 |
+| [ai-public-peasant](https://github.com/ai-public-peasant) | 패키징·통합·개선 |
+
+---
+
 ## 포함 스킬
 
 ### 1. `hwpx` — HWPX 순수 파이썬 스킬
@@ -56,16 +66,6 @@ Claude Code/Codex에서 아래와 같이 호출합니다.
 /hwpx 보고서 초안 작성해줘 — 제목: 2026년 AI 도입 계획
 /hwp-com-writer 레퍼런스 서식 기반으로 기안문 채워줘
 ```
-
----
-
-## 크레딧
-
-| 기여자 | 역할 |
-|--------|------|
-| [Canine89 / 박현규](https://github.com/Canine89/hwpxskill) (`@limedaddy_8924`) | hwpx 스킬 원작자 |
-| 이경수 / 공무원코딩 ([유튜브](https://www.youtube.com/@publicCoding) · 온나라 커뮤니티 범정부오피스) | 행정문서 자동화(범피스) 개발자 |
-| [ai-public-peasant](https://github.com/ai-public-peasant) | 패키징·통합·개선 |
 
 ---
 
