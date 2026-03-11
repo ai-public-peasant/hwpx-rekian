@@ -13,7 +13,7 @@ https://www.hancom.com/support/downloadCenter/download 에서 다운로드하세
 
 | 기여자 | 역할 |
 |--------|------|
-| [Canine89 / 박현규](https://github.com/Canine89/hwpxskill) (`@limedaddy_8924`) | hwpx 스킬 원작자 |
+| [Canine89 / 박현규](https://github.com/Canine89/hwpxskill) (스레드 `@limedaddy_8924` 유튜브 `https://www.youtube.com/@editorp89`) | hwpx 스킬 원작자 |
 | 이경수 / 공무원코딩 ([유튜브](https://www.youtube.com/@publicCoding) · 온나라 커뮤니티 범정부오피스) | 행정문서 자동화(범피스) 개발자 |
 | [ai-public-peasant](https://github.com/ai-public-peasant) | 패키징·통합·개선 |
 
